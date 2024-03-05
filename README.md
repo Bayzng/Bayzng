@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Adebayo</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">I'm a skilled Software Developer with experience in both Web-2 and Web-3 Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayzng&label=Profile%20views&color=0e75b6&style=flat" alt="bayzng" /> </p>
 
