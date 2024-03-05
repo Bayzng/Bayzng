@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with [BayzCrypt](bayzcrypt.vercel.app)
 
-- 👨‍💻 All of my projects are available at (bayo-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at bayo-portfolio.netlify.app
 
 - 💬 Ask me about **Coding 🤪🧑‍💻**
 
