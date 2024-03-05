@@ -11,10 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayzng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![snake gif](https://github.com/Bayzng/Bayzng/blob/output/github-contribution-grid-snake.gif)
-
 ###
-<img src="https://pbs.twimg.com/profile_images/1577677406093168645/DgSCMX4z_400x400.jpg"/>
+<img align="center" height="150" src="https://pbs.twimg.com/profile_images/1577677406093168645/DgSCMX4z_400x400.jpg"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayzng" alt="bayzng" /></a> </p>
