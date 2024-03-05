@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [bayo-portfolio.netlify.app](bayo-portfolio.netlify.app)
 
-- 💬 Ask me about **React, Next, Node**
+- 💬 Ask me about **Coding 🤪🧑‍💻**
 
 - 📫 How to reach me **ayofe70@gmail.com**
 
