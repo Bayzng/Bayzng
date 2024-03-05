@@ -14,7 +14,7 @@
 ![snake gif](https://github.com/Bayzng/Bayzng/blob/output/github-contribution-grid-snake.gif)
 
 ###
-<img src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoid2VhcmVcL2ZpbGVcL3ltdkJYdmtBMXRlYUFUa1piSFRWLnBuZyJ9:weare:Jj91V_iXxCfgCHTNjmsQk9ByzHLel5HzEgAsoQ8RVhY?width=1025&height=1000"/>
+<img src="https://pbs.twimg.com/profile_images/1577677406093168645/DgSCMX4z_400x400.jpg"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayzng" alt="bayzng" /></a> </p>
