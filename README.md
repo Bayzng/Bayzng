@@ -20,12 +20,6 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👯 I’m looking to collaborate on [BayzCrypt](bayzcrypt.vercel.app)
-
-- 🤝 I’m looking for help with [BayzCrypt](bayzcrypt.vercel.app)
-
-- 👨‍💻 All of my projects are available at [BayzCrypt](bayo-portfolio.netlify.app)
-
 - 💬 Ask me about **Coding 🤪🧑‍💻**
 
 - 📫 How to reach me **ayofe70@gmail.com**
