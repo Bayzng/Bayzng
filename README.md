@@ -13,13 +13,6 @@
 ###
 <img align="center" height="150" src="https://pbs.twimg.com/profile_images/1577677406093168645/DgSCMX4z_400x400.jpg"/>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayzng" alt="bayzng" /></a> </p>
-
-- 🔭 I’m currently working on [BayzCrypt](bayzcrypt.vercel.app)
-
-- 🌱 I’m currently learning **Solidity**
-
 - 💬 Ask me about **Coding 🤪🧑‍💻**
 
 - 📫 How to reach me **ayofe70@gmail.com**
