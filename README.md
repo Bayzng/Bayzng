@@ -11,18 +11,18 @@
 </div>
 
 ###
-<img align="center" height="150" src="https://pbs.twimg.com/profile_images/1577677406093168645/DgSCMX4z_400x400.jpg"/>
+
 
 - 💬 Ask me about **Coding 🤪🧑‍💻**
 
-- 📫 How to reach me **ayofe70@gmail.com**
+- 📫 How to reach me **meet.bayzng@gmail.com**
 
 - ⚡ Fun fact **Very Funny 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/akeemad28605307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/akeemad28605307" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adebayo-ademola-678530199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adebayo-ademola-678530199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulakeem-adebayo-678530199" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulakeem-adebayo-678530199" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/dev_bayz?igsh=mxdhadbwbmxxa3ltaa%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dev_bayz?igsh=mxdhadbwbmxxa3ltaa%3d%3d&utm_source=qr" height="30" width="40" /></a>
 <a href="https://discord.gg/Bayzng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bayzng" height="30" width="40" /></a>
 </p>
