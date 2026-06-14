@@ -16,8 +16,8 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/akeemad28605307" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdulakeem-adebayo-678530199" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Dev_Bayz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dev-bayz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dev_bayz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.gg/Bayzng" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
