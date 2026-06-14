@@ -32,20 +32,17 @@
 ---
 
 ### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayzng&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayzng&layout=compact&theme=radical" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bayzng&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayzng&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayzng&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayzng&theme=radical&hide_border=true" height="180" />
 </p>
 
----
-
-### ⚡ Featured Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bayzng&theme=radical&no-frame=true&row=1&column=6" />
+</p> -->
 ---
