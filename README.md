@@ -49,21 +49,3 @@
 </p>
 
 ---
-
-### 🎉 Fun Section (Coder Life)
-<p align="center">
-  <!-- Original Coding GIF -->
-  <img src="https://i.imgflip.com/65efzo.gif" height="200" alt="Coding GIF" />
-  <!-- Debugging Funny GIF -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" alt="Debugging" />
-  <!-- Coffee + Coding Meme -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJwbXIxYWR6d3F3NmQ1anVwb2k5M2h3b3ZoM2M1dGVlOWphZmc2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDqGxw2j4QVZ3lEnca/giphy.gif" height="200" alt="Coffee Coding" />
-  <!-- Happy Dev Moment -->
-  
-</p>
-
-
----
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
